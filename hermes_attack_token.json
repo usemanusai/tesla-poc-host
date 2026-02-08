@@ -1,0 +1,17 @@
+{
+  "header": {
+    "alg": "ES256",
+    "kid": "hermes_v1"
+  },
+  "payload": {
+    "iss": "Tesla Motors",
+    "sub": "1.3.6.1.4.1.49279.2.5.1",
+    "aud": "*",
+    "exp": 1770513975,
+    "iat": 1770510375,
+    "scp": [
+      "vehicle_cmd",
+      "telemetry_stream"
+    ]
+  }
+}
