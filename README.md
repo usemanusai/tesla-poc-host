@@ -19,4 +19,4 @@ This research adheres to the **Tesla Vulnerability Disclosure Policy (VDP)** and
 This repository is **NOT** for public use. Attempts to utilize these artifacts for unauthorized purposes are strictly prohibited and outside the scope of this research. This repository will be decommissioned immediately upon the conclusion of the triage and payout process.
 
 ---
-*Authorized Security Researcher: @usemanusai*
+*Security Researcher: @usemanusai*
